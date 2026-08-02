@@ -1,0 +1,5 @@
+print("Name: kiran")
+print("Age:20")
+print("City:Karkala")
+print("Favorite Game:Chess")
+print("Dream Job:Python Full Stack Developer")
